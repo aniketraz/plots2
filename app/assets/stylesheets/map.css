@@ -1,6 +1,6 @@
 /* Control layer order on maps */
-#content .leaflet-pane {
-  z-index: auto;
+.leaflet-bar, .leaflet-top{
+  position: initial !important;
 }
 #content .leaflet- {
   z-index: auto;
